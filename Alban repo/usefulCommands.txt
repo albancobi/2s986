@@ -1,0 +1,16 @@
+# These are some useful commands for this class
+
+1. Make sure I am in a conda environment when opening jupyter notebooks.
+   To display environments I've created type bash command:
+   conda env list
+
+2. The workshop for this class that I created is called 2s986environment
+   To activate an environment type bash command:
+   conda activate 'environment name'
+
+   To deactivate environment type bash command:
+   conda deactivate
+
+Resources:
+https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+
