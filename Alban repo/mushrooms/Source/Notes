@@ -1,0 +1,8 @@
+Changes for delve
+-----------------
+
+1) Replace "," with white space
+
+2) Randomly order the data
+
+3) Do not include attribute root since it has missing values
